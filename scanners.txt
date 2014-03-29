@@ -1,0 +1,15 @@
+[ SECURITY POST - CLERANCE 3 ]
+security_post_button
+
+[ LABS AROUND NEAR THE AMS - CLEARANCE 2 ]
+ret01_c1a0a
+
+[ AMS LABS, NEAR THE AMS CONTROL ROOM - CLERANCE 2 ]
+ams_lab_doorbutton
+
+[ AMS CONTROL ROOM DOORS - CLERANCE 2 ]
+ams_controlroom_door1
+ams_controlroom_door2
+
+[ AMS DOOR, TO ENTER IN THE AMS ROOM - CLEARANCE 2 ]
+4:32 PM - • GLaDOS •: ams_doors_button
