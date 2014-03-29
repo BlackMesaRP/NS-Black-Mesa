@@ -1,5 +1,5 @@
 SCHEMA.name = "Black Mesa"
-SCHEMA.author = "Riekelt"
+SCHEMA.author = "Riekelt, Maze, josephfra"
 SCHEMA.desc = "Roleplaying in the Black Mesa Research Facility."
 SCHEMA.uniqueID = "bmrp"
 nut.currency.SetUp("dollar", "dollars")

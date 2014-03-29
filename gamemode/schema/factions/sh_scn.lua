@@ -18,4 +18,4 @@ FACTION.maleModels = {
 FACTION.femaleModels = FACTION.maleModels
 FACTION.isDefault = false
 
-FACTION_SCN = FACTION.index
+FACTION_SCIENTIST = FACTION.index

@@ -29,4 +29,4 @@ FACTION.femaleModels = {
 	"models/humans/group01/female_04"
 }
 
-FACTION_SEV = FACTION.index
+FACTION_SERVICE = FACTION.index

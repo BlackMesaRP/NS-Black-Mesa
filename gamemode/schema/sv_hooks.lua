@@ -113,14 +113,12 @@ function SCHEMA:PlayerUse(ply, cmd, args, entity)
 	
 	--print(trace.Entity:GetName())
 	
-	if trace.Entity:GetName() == "ams_controlroom_door2" or trace.Entity:GetName() == "ams_controlroom_door1" then
+	if trace.Entity:GetName() == "security_post_button" then
 		
-		if ply:HasFlag("c3") then
-			return true
-		else
+		if (client:Team() == FACTION_SERVICE or client:Team() == FACTION_SCIENTIST or client:Team() == FACTION_MEDICAL or client:Team() == FACTION_VISITOR) then
 			if antispam == 0 then
 				timer.Create( "VOXDeny1", 0.1, 1, function()
-					ply:ChatPrint("Access Denied. Visitors must contact Security personnel for entry.")
+					ply:ChatPrint("Access Denied.")
 					antispam = 1
 					
 					timer.Create( "AntiSpam0", 3, 1, function()
@@ -134,7 +132,7 @@ function SCHEMA:PlayerUse(ply, cmd, args, entity)
 				end)
 				
 			else 
-				return false 
+				return true
 			end
 		return false 
 		end		
