@@ -125,7 +125,7 @@ function SCHEMA:PlayerUse(ply, cmd, args, entity)
 	
 	--print(trace.Entity:GetName())
 	
-	if trace.Entity:GetName() == "security_post_button" then
+	if trace.Entity:GetName() == "security_post_button" or trace.Entity:GetName() == "ams_controlroom_door1" or trace.Entity.GetName() == "ams_controlroom_door2" or trace.Entity.GetName() == "ams_lab_doorbutton" then
 		
 		if (client:Team() == FACTION_SERVICE or client:Team() == FACTION_SCIENTIST or client:Team() == FACTION_MEDICAL or client:Team() == FACTION_VISITOR) then
 			if antispam == 0 then
