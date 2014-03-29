@@ -2,6 +2,6 @@
 {
 	"base"		"nutscript"
 	"title"		"Black Mesa Roleplay"
-	"author"	"Riekelt"
+	"author"	"vG-Maze, Riekelt, Josephfra"
 	"menusystem" "1"
 }
