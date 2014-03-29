@@ -1,6 +1,18 @@
 --[[
 	Black Mesa Roleplay, 2014
 --]]
+--DON'T EDIT THESE UNLESS YOU KNOW WHAT YOU ARE DOING, and in that case, you MIGHT NOT if you edit these.
+resource.AddWorkshop("196960165")
+resource.AddWorkshop("104607228")
+resource.AddWorkshop("242294331")
+resource.AddWorkshop("108761337")
+resource.AddWorkshop("126181015")
+resource.AddWorkshop("105042805")
+resource.AddWorkshop("173923845")
+resource.AddWorkshop("231834252")
+resource.AddWorkshop("128089118")
+resource.AddWorkshop("128093075")
+
 function SCHEMA:GetDefaultInv(inventory, client, data)
 	-- PrintTable(data) to see what information it contains.
 	
