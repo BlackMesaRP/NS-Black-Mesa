@@ -1,4 +1,4 @@
 CLASS.name = "Medic"
-CLASS.faction = FACTION_MED
+CLASS.faction = FACTION_MEDICAL
 
 CLASS_MED = CLASS.index

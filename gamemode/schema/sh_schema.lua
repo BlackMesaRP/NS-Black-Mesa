@@ -1,8 +1,10 @@
-SCHEMA.name = "Black Mesa"
+SCHEMA.name = "Black Mesa Roleplay"
 SCHEMA.author = "Riekelt, Maze, josephfra"
 SCHEMA.desc = "Roleplaying in the Black Mesa Research Facility."
 SCHEMA.uniqueID = "bmrp"
 nut.currency.SetUp("dollar", "dollars")
+
+nut.config.menuMusic = "http://7609.live.streamtheworld.com:80/977_SMOOJAZZ_SC"
 
 nut.util.Include("sv_hooks.lua")
 

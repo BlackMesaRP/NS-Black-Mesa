@@ -22,4 +22,4 @@ FACTION.femaleModels = {
 	"models/humans/group01/scrubfe1e.mdl"
 }
 
-FACTION_MED = FACTION.index
+FACTION_MEDICAL = FACTION.index

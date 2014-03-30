@@ -1,4 +1,4 @@
 CLASS.name = "Scientist"
-CLASS.faction = FACTION_SCN
+CLASS.faction = FACTION_SCIENTIST
 
 CLASS_SCN = CLASS.index

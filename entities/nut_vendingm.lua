@@ -3,7 +3,7 @@ AddCSLuaFile()
 ENT.Type = "anim"
 ENT.PrintName = "Vending Machine"
 ENT.Author = "Chessnut"
-ENT.Category = "HL2 RP"
+ENT.Category = "BMRP"
 ENT.Spawnable = true
 ENT.AdminOnly = true
 ENT.PhysgunDisable = true

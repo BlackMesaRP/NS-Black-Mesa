@@ -1,4 +1,4 @@
 CLASS.name = "Visitor"
-CLASS.faction = FACTION_VIS
+CLASS.faction = FACTION_VISITOR
 
 CLASS_VIS = CLASS.index

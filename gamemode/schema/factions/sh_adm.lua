@@ -30,4 +30,4 @@ FACTION.femaleModels = {
 }
 FACTION.isDefault = false
 
-FACTION_ADM = FACTION.index
+FACTION_ADMIN = FACTION.index
