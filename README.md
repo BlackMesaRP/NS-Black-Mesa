@@ -13,7 +13,7 @@ Installation
 
 Now you can start your server.
 The Following items have been added:
-- Security ID (BROKEN)
+- Security ID (BROKEN ON NON-COMPATIBLE MAPS)
 - Radio's
 - Broadcast System
 - Suits including Hazmat and HEV
