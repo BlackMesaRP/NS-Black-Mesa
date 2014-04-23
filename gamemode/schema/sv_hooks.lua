@@ -104,6 +104,10 @@ function SCHEMA:StringClearances (client)
 	return clearancestring
 end
 
+/*
+	ALL CREDITS GO TO ALEX FROM ALG FOR THESE SCRIPTS, JUST MODIFIED TO FIT NUTSCRIPT BY RIEKELT
+*/
+
 function SCHEMA:PlayerUse(ply, cmd, args, entity)
 
 	if ply:EntIndex() == 0 then
